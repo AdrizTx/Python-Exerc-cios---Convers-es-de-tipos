@@ -41,6 +41,7 @@ print(resultado)
 # para inteiro e observe o que acontece.
 
 #Ao tentar converter a string "cento e vinte" para inteiro em Python, ocorre um erro porque a função int() só consegue converter strings que representam números em formato numérico, como "120"
+print("Ao tentar converter a string "cento e vinte" para inteiro em Python, ocorre um erro porque a função int() só consegue converter strings que representam números em formato numérico, como "120"")
 
 # EX5
 # Converta o número 42 para string
